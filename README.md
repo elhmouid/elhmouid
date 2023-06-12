@@ -4,7 +4,7 @@
 
 
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3d2337&size=35&center=true&vCenter=true&width=1000&lines=Hi%2C+I%27m+MOHAMED+EL+HMOUID%3BWelcome+to+my+profile;I'am+Passionate+about+programming%3BLet%27s+create+awesome+projects%21)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3d2337&size=35&center=true&vCenter=true&width=1000&lines=Hi%2C+I%27m+MOHAMED+EL+HMOUID%3BWelcome+to+my+profile;I am+Passionate+about+programming%3BLet%27s+create+awesome+projects%21)
 
 
 
