@@ -4,8 +4,7 @@
 
 
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3d2337&size=35&center=true&vCenter=true&width=1000&lines=Hi%2C+I%27m+MOHAMED+EL+HMOUID%3BWelcome+to+my+profile;I am+Passionate+about+programming%3BLet%27s+create+awesome+projects%21)
-
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3d2337&size=35&center=true&vCenter=true&width=1000&lines=Welcome+to+my+profile;I'm+MOHAMED+EL+HMOUID;Let%27s+create+awesome+projects!+ツ)
 
 
 - 🔭 I’m currently working on **expanding my programming skills and knowledge, especially in C Language.**
