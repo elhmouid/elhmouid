@@ -32,4 +32,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=elhmouid&show_icons=true&locale=en&layout=compact" alt="elhmouid" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elhmouid&" alt="elhmouid" /></p>
-![Snake animation](https://github.com/abdellatif-laghjaj/abdellatif-laghjaj/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/mohamed-elhmouid/mohamed-elhmouid/blob/output/github-contribution-grid-snake.svg)
