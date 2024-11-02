@@ -42,10 +42,7 @@
     </a> 
     <a href="https://www.adobe.com/products/aftereffects.html" target="_blank" rel="noreferrer"> 
         <img src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Adobe_After_Effects_CC_icon.svg" alt="after effects" width="40" height="40"/> 
-    </a> 
-    <a href="https://www.espressif.com/en/products/socs/esp32" target="_blank" rel="noreferrer"> 
-        <img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/ESP32_Logo.svg" alt="esp32" width="40" height="40"/> 
-    </a> 
+    </a>
 </p>
 
 
