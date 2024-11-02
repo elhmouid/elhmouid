@@ -13,7 +13,7 @@
 
 - 👯 I’m looking to collaborate on **open-source projects and programming challenges.**
 
-- 📫 How to reach me? **you can use [Email](mohamedelhmouid51516@gmail.com).**
+- 📫 How to reach me? **You can use [Email](mailto:mohamedelhmouid51516@gmail.com).**
 
 - ⚡ Fun fact **It’s all 0’s and 1’s**
 
