@@ -47,6 +47,14 @@
 ---
 
 ### 📊 GitHub Stats:
+<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 0px;">
+  <a href="https://github.com/oakoudad/badge42">
+    <img src="https://badge.mediaplus.ma/kettlebells/moel-hmo" alt="moel-hmo's 42 stats"/>
+  </a>
+  <img src="https://c4.wallpaperflare.com/wallpaper/961/982/532/42-cat-funny-grumpy-wallpaper-thumb.jpg" alt="Funny Cat" style="width: 45%;"/>
+</div>
+
+
 <table>
   <tr>
     <td>
