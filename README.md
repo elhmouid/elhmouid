@@ -47,6 +47,10 @@
 ---
 
 ### 📊 GitHub Stats:
+<div align="center"> 
+  <p>Visitor count</p>
+  <img src="https://profile-counter.glitch.me/elhmouid/count.svg" alt="Visitor's Count" />
+</div>
 <div align="center" style="display: flex; align-items: center; justify-content: center; gap: 0px;">
   <a href="https://github.com/oakoudad/badge42">
     <img src="https://badge.mediaplus.ma/kettlebells/moel-hmo" alt="moel-hmo's 42 stats"/>
