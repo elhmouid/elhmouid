@@ -19,7 +19,7 @@
 - 🎯 **Goal:** Building efficient, scalable solutions and contributing to the tech community
 
 ---
-
+<!--
 ## 💻 Technical Expertise & Professional Skills
 
 ### 🧱 **Core Programming Languages**
@@ -186,6 +186,7 @@
 </div>
 
 </div>
+-->
 
 ### 📊 GitHub Statistics
 
